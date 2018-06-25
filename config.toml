@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://jairoeli.github.io/"
 languageCode = "en-us"
-title = "Jairo Eli de Leon"
+title = "Jairo Eli de León"
 theme = "colindrake.me"
 
 [permalinks]
