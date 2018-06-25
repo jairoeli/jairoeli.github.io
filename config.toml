@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jairo Eli de Leon"
+theme = "colindrake.me"
+
+[permalinks]
+    post = "/post/:title/"
+    page = "/page/:title/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = -10
+# [[menu.main]]
+#     name = "Posts"
+#     url = "/post"
+[[menu.main]]
+    name = "Projects"
+    url = "/page/projects/"
+
+[[menu.footer]]
+    name = "RSS"
+    url = "/post/index.xml"
+[[menu.footer]]
+    name = "Site Info"
+    url = "/page/site-info"
