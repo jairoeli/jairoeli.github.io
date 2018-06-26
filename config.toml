@@ -2,7 +2,7 @@ baseURL = "https://jairoeli.github.io/"
 languageCode = "en-us"
 title = "Jairo Eli de León"
 theme = "colindrake.me"
-publishBranch = "master"
+publishDir = "docs"
 
 [permalinks]
     post = "/post/:title/"
