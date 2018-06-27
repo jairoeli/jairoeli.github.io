@@ -1,5 +1,3 @@
-# colindrake.me
-
 This is the content for my personal website, [jairoeli.github.io](https://jairoeli.github.io).
 
 ## Building
