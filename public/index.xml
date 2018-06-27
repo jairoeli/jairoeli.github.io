@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jairo Eli de León</title>
+    <link>https://jairoeli.github.io/</link>
+    <description>Recent content on Jairo Eli de León</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2017 12:09:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://jairoeli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site Info</title>
+      <link>https://jairoeli.github.io/page/site-info/</link>
+      <pubDate>Sun, 07 May 2017 12:09:56 -0500</pubDate>
+      
+      <guid>https://jairoeli.github.io/page/site-info/</guid>
+      <description>This website is built with hugo.
+The content is Creative Commons By-SA 4.0.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jairoeli.github.io/page/projects/</link>
+      <pubDate>Mon, 01 May 2017 18:55:10 -0500</pubDate>
+      
+      <guid>https://jairoeli.github.io/page/projects/</guid>
+      <description>The source for all of these side projects, and more, can be found on my Github profile.
+Design work can be found on my Behance portfolio.
+Colorscope An iOS app that helps you discover beautiful color schemes based on a set of harmony rules.
+Habit An iOS app that helps you form habit you want to count, and check-in every time you do it.</description>
+    </item>
+    
+  </channel>
+</rss>
