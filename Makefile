@@ -1,8 +1,8 @@
-DEST=public
+DEST=bulid
 
-.PHONY: public clean dev
+.PHONY: bulid clean dev
 
-public:
+bulid:
 	hugo -d $(DEST)
 clean:
 	rm -rf $(DEST)
