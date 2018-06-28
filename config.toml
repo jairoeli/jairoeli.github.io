@@ -2,6 +2,7 @@ baseURL = "https://jairoeli.github.io"
 languageCode = "en-us"
 title = "Jairo Eli de León"
 theme = "jairoeli"
+publishdir = "build"
 
 [permalinks]
     post = "/post/:title/"
