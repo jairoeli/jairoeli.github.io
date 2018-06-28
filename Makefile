@@ -1,8 +1,8 @@
-DEST=build
+DEST=public
 
-.PHONY: build clean dev
+.PHONY: public clean dev
 
-build:
+public:
 	hugo -d $(DEST)
 clean:
 	rm -rf $(DEST)
