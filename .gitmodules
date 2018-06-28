@@ -1,3 +1,6 @@
 [submodule "themes/jairoeli"]
 	path = themes/jairoeli
 	url = https://github.com/jairoeli/hugo-theme.git
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/jairoeli/jairoeli.github.io.git
