@@ -1,8 +1,8 @@
-DEST=bulid
+DEST=build
 
-.PHONY: bulid clean dev
+.PHONY: build clean dev
 
-bulid:
+build:
 	hugo -d $(DEST)
 clean:
 	rm -rf $(DEST)
